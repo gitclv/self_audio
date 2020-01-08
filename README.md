@@ -1,3 +1,6 @@
+# Readme below from socket.IO demo I'm using in licence
+
+
 # Socket.IO Examples
 
 This repository contains a few examples that demonstrate the features of the
